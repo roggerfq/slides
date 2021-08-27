@@ -1,2 +1,2 @@
 # slides
-here we will upload files for my slides
+here I will upload files for my slides
